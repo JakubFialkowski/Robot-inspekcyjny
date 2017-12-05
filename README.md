@@ -1,5 +1,5 @@
 <h1><b><big># Robot-inspekcyjny</big></b></h1>
-Projekt przedstawia budowę prostego robota mobilnego.
+Projekt przedstawia budowę prostego robota mobilnego.<br>
 
 <p>-Robot mobilny dwukołowy, z samonastawnym kołem podporowym.<br>
 -Serwonapędy modelraskie uzyte jako napęd DC ze zintegrowaną przekładnią, sterowane za pomocą mostka H.<br>
